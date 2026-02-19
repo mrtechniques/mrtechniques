@@ -5,7 +5,7 @@ Hi, I'm Mohammed Shajith TT<br>Aspiring Machine Learning Engineer | AI & ML Stud
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/MOHAMMED SHAJITH) 
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/mohammed_shajith_tt) 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/MOHAMMED SHAJITH TT) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://in.linkedin.com/in/mohammed-shajith-tt-8b4a3933b) 
 [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:shajithtt786@gmail.com) 
 
 # 💻 Tech Stack:
